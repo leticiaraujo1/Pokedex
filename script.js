@@ -62,5 +62,5 @@ btnprev.addEventListener('click', () => {
 
 
 /*await vai servir pra esperar a linha concluir antes de executar as linhas seguintes do código,
-o await so funciona em função assincrona, por isso o async ali em cima. esse async serve pro ja 
+o await so funciona em função assíncrona, por isso o async ali em cima. esse async serve pro js 
 ir organizando as outras coisas enquanto espera pelas respostas*/
